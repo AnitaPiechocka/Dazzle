@@ -7,7 +7,165 @@
 /* ABOUT */
 
 /* PRICING */
-
+.mainprincingbox{
+width:100%;
+height:800px;
+display: flex;
+justify-content: center;
+margin-left: auto;
+margin-right: auto;
+background-color: #f3f2f0;
+align-items: center;
+}
+.pricingoptions{
+margin: 0% 0% 7% 0%;
+font-size: 35px;
+}
+.pricingtext{
+width:25%;
+height:620px;
+margin: 10px;
+}
+.lowerprice{
+width:23.5%;
+height:620px;
+margin: 10px;
+background-color: white;
+border-radius: 1%;
+margin-right: 25px;
+}
+.higherprice{
+width:23.5%;
+height:620px;
+margin: 10px;
+background-color: #39b54a;
+border-radius: 1%;
+}
+.greenlineoptions{
+width: 70px;
+height: 1px;
+background-color:#39b54a;
+float: left;
+}
+.pricingparagraph {
+margin-right: 10%; 
+color: #82827F;
+font-size: 18px;
+line-height: 30px;
+margin-top: 25px;
+}
+.liteplan{
+text-align: center;
+margin-top: 15%;
+margin-bottom: 0px;
+color: black;
+font-size: 27px;
+}
+.pricedollarsmall {
+font-size: 80px;
+text-align: center;
+margin-top: 20px;
+margin-bottom: 0px;
+}
+.permonthlite{
+text-align: center;
+margin-top: 0px;
+margin-bottom: 35px;
+font-size: 20px;
+color: #82827F;
+}
+.lightgreyhr{
+width: 220px;
+background-color: #f3f2f0;
+height: 1px;
+border: 0px;
+}
+.dollarsign{
+font-size: 30px;  
+}
+.storagesmall{
+text-align: center;
+color: #82827F;
+font-size: 18px;
+margin: 15px;
+}
+.gbssmall{
+color: #39b54a;
+font-weight: 900;
+}
+.greenstarted{
+background-color: #39b54a;
+margin-left: 27%;
+border: 0px;
+width: 150px;
+height: 60px;
+border-radius: 5%;
+color: white;
+margin-top: 30px;
+font-size: 15px;
+font-weight: 700;
+}
+.proplan{
+text-align: center;
+margin-top: 15%;
+margin-bottom: 0px;
+color: white;
+font-size: 27px;
+}
+.pricedollarbig{
+font-size: 80px;
+text-align: center;
+margin-top: 20px;
+margin-bottom: 0px;
+color: white;
+}
+.whitestarted{
+background-color: white;
+margin-left: 27%;
+border: 0px;
+width: 150px;
+height: 60px;
+border-radius: 5%;
+color: black;
+margin-top: 30px;
+font-size: 15px;
+font-weight: 550;
+}
+.storagebig{
+text-align: center;
+color: #ececec;
+font-size: 18px;
+margin: 15px;
+}
+.gbsbig{
+color: white;
+font-weight: 900;
+}
+.lightgreyhrmid{
+width: 220px;
+background-color: #E8E8E8;
+height: 1.3px;
+border: 0px;
+}
+.greyhr{
+width: 220px;
+background-color: #e8e8e8;
+height: 0.5px;
+border: 0px;
+}
+.greyhrmid{
+width: 220px;
+background-color: #e8e8e8;
+height: 0.8px;
+border: 0px;
+}
+.permonthpro{
+text-align: center;
+margin-top: 0px;
+margin-bottom: 35px;
+font-size: 20px;
+color: #ececec;
+}
 /* TESTIMONIALS */
 
 /* DOWNLOAD */
