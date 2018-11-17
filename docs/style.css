@@ -22,12 +22,12 @@ margin: 0% 0% 7% 0%;
 font-size: 35px;
 }
 .pricingtext{
-width:25%;
+width:20%;
 height:620px;
 margin: 10px;
 }
 .lowerprice{
-width:23.5%;
+width:17%;
 height:620px;
 margin: 10px;
 background-color: white;
@@ -35,7 +35,7 @@ border-radius: 1%;
 margin-right: 25px;
 }
 .higherprice{
-width:23.5%;
+width:17%;
 height:620px;
 margin: 10px;
 background-color: #39b54a;
