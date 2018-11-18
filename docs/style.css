@@ -6,6 +6,63 @@
 
 /* ABOUT */
 
+/* FIRST SECTION */
+#introduction {
+   margin: 60px 10%;
+   display: flex;
+   justify-content: center;
+   align-items: flex-start;
+   
+}
+
+#introduction h1{
+   
+   width: 30%;
+   height:60px;
+   border-bottom:none;
+   background:linear-gradient(green, green) bottom left no-repeat;
+   background-size:20% 2px;
+   font-weight: bold;
+}
+
+#introduction p {
+   color: grey;
+   font-size: 1.4em;
+   width: 55%;
+   line-height: 175%;
+   text-align: justify;
+}
+
+/* SECOND SECTION */
+#pros {
+   display: grid;
+   grid-template-columns: repeat(3, auto);
+   grid-template-rows: repeat(3, auto);
+   margin: 10% 10% 0;
+   grid-column-gap: 10px;
+   grid-row-gap: 10px;
+}
+
+.element {
+   justify-self: center;
+}
+
+.element i {
+   color: green;
+   font-size: 45px;
+}
+
+.element p {
+   font-size: 1.2em;
+   width: 300px;
+   margin: 30px 0;
+   color: grey;
+}
+
+.element h4 {
+   margin-top: 30px;
+   font-weight: bold;
+}
 /* PRICING */
 
 /* TESTIMONIALS */
