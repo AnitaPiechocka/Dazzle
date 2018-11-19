@@ -1,4 +1,9 @@
 /* Global */
+html body{
+    margin:0;
+    padding:0;
+    font-family: 'Noto Sans', sans-serif;
+}
 
 /* Navbar */
 
@@ -11,11 +16,7 @@
 /* TESTIMONIALS */
 
 /* DOWNLOAD */
-html body{
-    margin:0;
-    padding:0;
-    font-family: 'Noto Sans', sans-serif;
-}
+
 #download{
     background: #39b54a;
     color: #b2fabc;
@@ -87,9 +88,6 @@ html body{
     height: 60px;
     color: #767676;
     background-color: #141515;
-    position: fixed;
-    left: 0;
-    bottom: 0;
     width: 100%;
 }
 #footer-section p{
@@ -97,6 +95,5 @@ html body{
     text-align: center;
     margin: auto;
     width: 900px;
-    
 }
 /* FOOTER */
