@@ -1,4 +1,9 @@
 /* Global */
+html body{
+    margin:0;
+    padding:0;
+    font-family: 'Noto Sans', sans-serif;
+}
 
 /* Navbar */
 
@@ -12,4 +17,83 @@
 
 /* DOWNLOAD */
 
+#download{
+    background: #39b54a;
+    color: #b2fabc;
+    padding-top: 60px;
+    padding-bottom: 120px;
+    height: 400px;
+    text-align: center;
+    line-height: 1.875;
+    
+}
+#download h1{
+    color: white;
+    font-size: 28px;
+    font-weight: 900;
+    
+}
+#download hr{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    width: 70px;
+}
+
+#download p{
+    width: 760px;
+    margin: 0 auto;
+    margin-top: 48px;
+    font-size: 18px;
+    margin-bottom: 36px;
+}
+
+
+#download a {
+    display: block;
+    width: 230px;
+    height: 71px;
+    font: 0/0 a;
+    text-shadow: none;
+    color: transparent;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 230px 71px;
+
+}
+
+#download .row {
+    width: 760px;
+    margin: 0 auto;
+    display: flex;
+  }
+  
+#download .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+#app-store {
+    background-image: url(../images/app-store.png);
+    margin-right: 0;
+    margin-left: auto;
+    margin-top: auto; 
+}
+
+#google-play{
+    background-image: url(../images/google-play.png);
+    margin-left: 0;
+    margin-right: auto;
+    margin-top: auto;   
+}
+#footer-section{
+    height: 60px;
+    color: #767676;
+    background-color: #141515;
+    width: 100%;
+}
+#footer-section p{
+    line-height: 60px;
+    text-align: center;
+    margin: auto;
+    width: 900px;
+}
 /* FOOTER */
