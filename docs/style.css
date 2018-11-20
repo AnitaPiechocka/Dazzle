@@ -336,7 +336,7 @@ color: #ececec;
     color: #b2fabc;
     padding-top: 60px;
     padding-bottom: 120px;
-    height: 400px;
+    height: 30%;
     text-align: center;
     line-height: 1.875;
     
@@ -382,21 +382,21 @@ color: #ececec;
   
 #download .column {
     flex: 33.33%;
-    padding: 5px;
+    padding: px;
   }
 
 #app-store {
-    background-image: url(../images/app-store.png);
+    background-image: url(./images/app-store.png);
     margin-right: 0;
     margin-left: auto;
     margin-top: auto; 
 }
 
 #google-play{
-    background-image: url(../images/google-play.png);
+    background-image: url(./images/google-play.png);
     margin-left: 0;
     margin-right: auto;
-    margin-top: auto;   
+    margin-top: auto; 
 }
 #footer-section{
     height: 60px;
